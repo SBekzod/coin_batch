@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="game_batch">
+    <serverData>
+      <paths name="game_batch">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/game_batch" local="$PROJECT_DIR$" web="/31.220.109.104" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/node_modules" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

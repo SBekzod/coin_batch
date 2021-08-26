@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="062cdb85-63d8-404d-916f-65c36f4026b0" name="game_batch" url="http://31.220.109.104">
+        <fileTransfer rootFolder="/home/martin" accessType="SFTP" host="211.253.11.175" port="2324" sshConfigId="97054b78-31de-4e87-b617-4d45e83395a4" sshConfig="root@211.253.11.175:2324 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
